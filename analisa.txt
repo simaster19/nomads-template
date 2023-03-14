@@ -1,0 +1,25 @@
+Website paket Wisat dan Umroh
+Dibangun Oleh Miftakhul kirom
+
+#Problem
+Sulit untuk mengikuti travel yang bisa di cicil
+ketika umroh pihak agensi tidak ingin membantu passport/visa
+customizable(flight,hotel,jumlah hari dalam waktu)
+
+#market (UX)
+15-22 Tahun (teenager)
+25-24 Tahun (honeymoon,family trip,umroh)
+
+#solution
+cicilan bunga rendah
+dapat mengkostum pilihan paket travel (flight, hotel, days)
+bantuan untuk membuat passport / visa (jika dibutuhkan)
+
+#MainGoals
+fitur untu menghubungkan pengguna dengan penyedia cicilan (third-party)
+fitur untuk menambahkan hari pada setiap paket
+fitur untuk memastikan bahwa pengguna dapat dibantu membuat passport dan Visa
+
+#Kompetitor/UX Benchmarking
+dwidaya Visa https://dwidayatour.co.id/visa
+uhudpaket Gold https://uhudtour.com/paket
