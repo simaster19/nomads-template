@@ -1,0 +1,98 @@
+<mjml>
+<mj-body background-color="#e4e6eb" font-size="13px">
+<mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0px" padding-top="0" border-bottom="1px dashed #eee">
+<mj-column width="100%" vertical-align="top">
+    <mj-image src="frontend/images/logo.png" alt="" align="center" border="none" width="180px" padding-left="0px" padding-right="0px" padding-bottom="25px" padding-top="30px" />
+</mj-column>
+    
+</mj-section>
+<mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0px" padding-top="0">
+<mj-column width="100%" vertical-align="top">
+ <mj-text align="center" color="#071c4d" font-size="30px" font-weight="bold" font-family="Playfair Display, Times New Roman. serif" padding-left="25px" padding-right="25px" padding-top="30px" padding-bottom="30px">
+    Don't forget your E-Ticket
+ </mj-text>
+</mj-column>
+    
+</mj-section>
+<mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0px" padding-top="0">
+<mj-column width="100%" vertical-align="top">
+    <mj-image src="frontend/images/nusa_penida@2x.jpg" alt="" align="center" border="none" width="550px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px" />
+</mj-column>
+    
+</mj-section>
+<mj-section background-color="#ffffff"  padding-bottom="20px" padding-top="20px">
+<mj-column width="100%" vertical-align="middle" border-bottom="1px dashed #eee" padding-bottom="30px">
+ <mj-text align="left" line-height="28px"  color="#071c4d" font-size="18px" font-family="Assistant, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+    Hi, Miftakhul Kirom
+    <br><br>
+    Tiket digital kamu sudah berhasil di cetak.
+    <br>
+    Booking ID <strong>#7687686</strong>
+ </mj-text>
+  <mj-table color="#071c4d" line-height="28px" font-size="18px" font-family="Assistant, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+    <tr>
+        <td colspan="3">Members</td>
+    </tr>
+    <tr>
+    <td><strong>Kirom</strong></td>
+    <td style="text-align:right">Singapore, SG</td>
+    </tr>
+ </mj-table>
+   <mj-table color="#071c4d" line-height="28px" font-size="18px" font-family="Assistant, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+    <tr>
+        <td colspan="3">Travel Details</td>
+    </tr>
+    <tr>
+    <td><strong>Departure</strong></td>
+    <td style="text-align:right">Nusa Penida</td>
+    </tr>
+     <tr>
+    <td><strong>Date and Time</strong></td>
+    <td style="text-align:right">Thu, 20 jan, 2023</td>
+    </tr>
+ </mj-table>
+
+ <mj-button align="center" font-size="18px" font-weight="bold" background-color="#ff9e53" border-radius="10px" color="#fff" font-family="Assistant, Helvetica, sans-serif">
+    Check Detail
+ </mj-button>
+</mj-column>
+    
+</mj-section>
+<mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0px" >
+<mj-column width="100%" vertical-align="middle"  >
+ <mj-text align="left" color="#071c4d" font-size="18px" font-family="Assistant, Helvetica, sans-serif" padding-left="25px" padding-right="25px">
+    Butuh bantuan?
+ 
+ </mj-text>
+
+   
+</mj-column>
+    
+</mj-section>
+<mj-section background-color="#ffffff"  padding-bottom="20px" padding-top="0px">
+<mj-column>
+
+  <mj-table>
+    <tr>
+        <td style="width:50px">
+        <img src="frontend/images/ic_event@2x.png"/>
+        </td>
+    <td style="font-size:18px; padding-left:10px; color:#071c4d; font-family:"Assistant, Helvetica, sans-serif"">support@xxx.id <br> 031-6566565</td>
+    
+    </tr>
+ </mj-table>
+ 
+</mj-column>
+    
+</mj-section>
+
+<mj-section padding-bottom="30px" padding-top="3px">
+    <mj-column>
+        <mj-text align="center" color="#888893" font-size="18px" font-family="Asistant,Helvetica, sant-serif" padding-left="25px" padding-right="25px" padding-bottom="0px">
+            2023 Nomads Copyright All Rights Reserved.
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+</mj-body>
+</mjml>
